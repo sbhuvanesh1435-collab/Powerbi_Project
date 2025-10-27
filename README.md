@@ -70,10 +70,7 @@ KPIs: Dynamic cards for total revenue, total units sold, and year-over-year grow
 👤 Author
 
 Bhuvaneshwaran S
-📧 sbhuvanesh66@gmail.com
+📧 sbhuvanesh6699@gmail.com
 📊 Passionate about data analytics and business intelligence
 
 
----
-
-Would you li
